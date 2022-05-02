@@ -11,7 +11,7 @@ import SwiftUI
 struct RatingAnimationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RatingView()
         }
     }
 }
